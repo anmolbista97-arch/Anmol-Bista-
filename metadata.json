@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI by Anmol Bista",
+  "description": "High-performance academic AI assistant tailored for students across Science, Management, Law, and Humanities, supporting English, Nepali, and Romanized Nepali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
